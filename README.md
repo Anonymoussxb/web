@@ -19,9 +19,8 @@ Welcome to my **personal CV website** – a minimalist, clean, and responsive po
 
 ## 🖼️ Preview
 
-![Preview of CV Website](https://raw.githubusercontent.com/Anonymoussxb/cv/main/assets/screenshot.png)
+![image](https://github.com/user-attachments/assets/2c426243-5924-4df4-8b2d-b90d1fc64336)
 
-> 💡 *You can replace the above image with a real screenshot of your site. Just upload a `screenshot.png` in the `assets/` folder.*
 
 ---
 
@@ -34,5 +33,5 @@ Welcome to my **personal CV website** – a minimalist, clean, and responsive po
 
 ---
 
-## 📁 File Structure
+
 
